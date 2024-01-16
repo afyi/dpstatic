@@ -1,0 +1,18 @@
+{
+  "name": "dpstatic",
+  "version": "1.0.0",
+  "main": "dist/upper.js",
+  "description": "A learning project, don't use in a production environmenment",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "alex.xu",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^5.1.4"
+  }
+}
