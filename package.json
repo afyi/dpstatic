@@ -1,8 +1,8 @@
 {
   "name": "dpstatic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/upper.js",
-  "description": "A learning project, don't use in a production environmenment",
+  "description": "A learning project.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.config.js"
