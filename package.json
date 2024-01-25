@@ -1,6 +1,6 @@
 {
-  "name": "dpstatic",
-  "version": "1.0.1",
+  "name": "dpsta",
+  "version": "1.1.1",
   "main": "dist/upper.js",
   "description": "A learning project.",
   "scripts": {
