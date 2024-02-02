@@ -1,11 +1,15 @@
 {
   "name": "dpsta",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "main": "dist/upper.js",
   "description": "A learning project.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afyi/dpstatic"
   },
   "keywords": [
     "learning"
